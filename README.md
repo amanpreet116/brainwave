@@ -1,11 +1,19 @@
 
+
+## 🌐 Live Demo
+
+Experience the application live: [NeuroPulse Demo](https://brainwave-git-main-amanpreet116s-projects.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://brainwave-git-main-amanpreet116s-projects.vercel.app/)
+
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Vite
 - React.js
 - Tailwind CSS
 
-- 
+  
 **Prerequisites**
 
 Make sure you have the following installed on your machine:
